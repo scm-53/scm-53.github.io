@@ -6,7 +6,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
 <script src="https://d3js.org/d3.v4.min.js"></script>
-<script src="http://vizjs.org/viz.v1.1.0.min.js"></script>
+<script src="https://vizjs.org/viz.v1.1.0.min.js"></script>
 
 <!-- offline
 <script src="src/d3.v4.min.js"></script>
