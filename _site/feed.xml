@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-08T19:40:38+01:00</updated><id>http://localhost:4000//</id><entry><title type="html">Evan Sheridan</title><link href="http://localhost:4000/people/first-post/" rel="alternate" type="text/html" title="Evan Sheridan" /><published>2016-11-26T00:00:00+00:00</published><updated>2016-11-26T00:00:00+00:00</updated><id>http://localhost:4000/people/first-post</id><content type="html" xml:base="http://localhost:4000/people/first-post/">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Research: it is well known that Quantum Monte Carlo simulations are plagued
+ with numerical and statistical errors. The goal of my current research is to
+ try and minimise some of these errors so that that Dynamincal Mean Field
+ Theory (DMFT) calculations (i) become more accurate and (ii) converge faster.
+ To that end,  I am developing impurity solvers for the Dynamical Mean Field Theory.
+ With a broader view in mind, I am aiming to use these solvers to investigate
+ the equation of state for strongly correlated systems.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Publications:&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Recent conference attended:&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><summary type="html">PhD Student</summary></entry><entry><title type="html">Hello World!</title><link href="http://localhost:4000/blog/first-post/" rel="alternate" type="text/html" title="Hello World!" /><published>2016-11-26T00:00:00+00:00</published><updated>2016-11-26T00:00:00+00:00</updated><id>http://localhost:4000/blog/first-post</id><content type="html" xml:base="http://localhost:4000/blog/first-post/">&lt;p&gt;It is terribly mundane to entitle my first post “Hello World!” but this is
+probably the only time in which it has ever had some real meaning. I
+suppose “initial commit” could also qualify but that is rather pessimistic since
+I have still some semblance of hope that this blog will be read by somebody other
+than me (which is currently not the case for the majority of my git repos…must be
+that .f90 extension…).&lt;/p&gt;
+
+&lt;p&gt;To cut a long story short I hope to regularly contribute here about things that I find
+interesting: which will range from my research, what I am reading (academically
+and otherwise), what projects I am working on in my spare time to how to do cool
+things with python and maybe even fortran if you are lucky!&lt;/p&gt;
+
+&lt;p&gt;So, stay tuned - ideas are brewing! And on that note: “Goodbye World”.&lt;/p&gt;</content><category term="PhD" /><summary type="html">What it says on the tin...</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22feature%22=%3Enil%7D" /></entry></feed>

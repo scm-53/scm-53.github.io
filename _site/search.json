@@ -1,0 +1,103 @@
+[
+
+  
+    {
+      "title"			: "Evan Sheridan",
+      "link"			: "http://localhost:4000/people/first-post/",
+      "excerpt"		: "PhD Student"
+    }
+  
+
+  
+    ,{
+      "title"			: "Hello World!",
+      "link"			: "http://localhost:4000/blog/first-post/",
+      "excerpt"		: "What it says on the tin…"
+    }
+  
+
+
+
+  
+    {
+      "title"			: "About",
+      "link"			: "http://localhost:4000/about/1",
+      "excerpt"		: "About"
+    }
+  
+
+  
+
+  
+
+  
+
+  
+    ,{
+      "title"			: "About",
+      "link"			: "http://localhost:4000/about/",
+      "excerpt"		: "About"
+    }
+  
+
+  
+    ,{
+      "title"			: "Group Members",
+      "link"			: "http://localhost:4000/admin/",
+      "excerpt"		: "Group Members"
+    }
+  
+
+  
+    ,{
+      "title"			: "Research",
+      "link"			: "http://localhost:4000/research/",
+      "excerpt"		: "Research"
+    }
+  
+
+  
+    ,{
+      "title"			: "Group Expertise",
+      "link"			: "http://localhost:4000/viz/",
+      "excerpt"		: "Group Members"
+    }
+  
+
+  
+
+  
+
+  
+    ,{
+      "title"			: "Theme Setup",
+      "link"			: "http://localhost:4000/theme-setup/",
+      "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
+    }
+  
+
+  
+    ,{
+      "title"			: "Resources",
+      "link"			: "http://localhost:4000/resources/",
+      "excerpt"		: "Resources"
+    }
+  
+
+  
+    ,{
+      "title"			: "About the Jekyll Theme",
+      "link"			: "http://localhost:4000/about/index1/",
+      "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
+    }
+  
+
+  
+
+  
+
+  
+
+  
+
+]
