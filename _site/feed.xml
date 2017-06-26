@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-08T21:23:09+01:00</updated><id>http://localhost:4000//</id><entry><title type="html">Evan Sheridan</title><link href="http://localhost:4000/people/first-post/" rel="alternate" type="text/html" title="Evan Sheridan" /><published>2016-11-26T00:00:00+00:00</published><updated>2016-11-26T00:00:00+00:00</updated><id>http://localhost:4000/people/first-post</id><content type="html" xml:base="http://localhost:4000/people/first-post/">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-26T14:48:10+01:00</updated><id>http://localhost:4000//</id><entry><title type="html">Evan Sheridan</title><link href="http://localhost:4000/people/first-post/" rel="alternate" type="text/html" title="Evan Sheridan" /><published>2016-11-26T00:00:00+00:00</published><updated>2016-11-26T00:00:00+00:00</updated><id>http://localhost:4000/people/first-post</id><content type="html" xml:base="http://localhost:4000/people/first-post/">&lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;Research: it is well known that Quantum Monte Carlo simulations are plagued
  with numerical and statistical errors. The goal of my current research is to
@@ -26,4 +26,15 @@ interesting: which will range from my research, what I am reading (academically
 and otherwise), what projects I am working on in my spare time to how to do cool
 things with python and maybe even fortran if you are lucky!&lt;/p&gt;
 
-&lt;p&gt;So, stay tuned - ideas are brewing! And on that note: “Goodbye World”.&lt;/p&gt;</content><category term="PhD" /><summary type="html">What it says on the tin...</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22feature%22=%3Enil%7D" /></entry></feed>
+&lt;p&gt;So, stay tuned - ideas are brewing! And on that note: “Goodbye World”.&lt;/p&gt;</content><category term="PhD" /><summary type="html">What it says on the tin...</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22feature%22=%3Enil%7D" /></entry><entry><title type="html">Duncan Gowland</title><link href="http://localhost:4000/people/duncan/" rel="alternate" type="text/html" title="Duncan Gowland" /><published>2016-11-22T00:00:00+00:00</published><updated>2016-11-22T00:00:00+00:00</updated><id>http://localhost:4000/people/duncan</id><content type="html" xml:base="http://localhost:4000/people/duncan/">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Research: Density functional theory (DFT) is a powerful tool in the investigation of the properties of molecules and solids. However, it is limited to the ground state of said systems. The related Time-Dependent density functional theory (TD-DFT) goes beyond this limitation whilst still providing the ‘3N’ scaling of DFT. It is used to study the excited states of both molecules and solids, linking intuitively to spectroscopic methods.
+Currently, I use this method to study the low lying states of fluorescent probe molecules used in lipid bilayer imaging. This informs on the non-equilibrium relaxation dynamics of such molecules and how they change in different solvents, in effect describing solvatochromism. I aim to move on to using this method to study core-level excited states of metallo-organic compounds, with consideration for the many-body effects or strong correlation present.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Publications:&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Recent conference attended:&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Duncan</name></author><summary type="html">PhD Student</summary></entry></feed>
